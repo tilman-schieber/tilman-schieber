@@ -1,1 +1,1 @@
-Browser games, tools and courses, with live previews: **[gh.tschieber.de](https://gh.tschieber.de/)**
+For an overview of some of my projects see: **[gh.tschieber.de](https://gh.tschieber.de/)**
